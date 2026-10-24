@@ -4,11 +4,7 @@ ROS 2 mechatronics assignment using Turtlesim, custom interfaces, actions, servi
 
 ## 1. Team Members
 
-| Name | University ID |
-|---|---|
-| [Team member 1] | [University ID] |
-| [Team member 2] | [University ID] |
-| [Add other members] | [University ID] |
+Hla Farghaly Ahmed Qotb 9599
 
 ## 2. Project Overview
 
