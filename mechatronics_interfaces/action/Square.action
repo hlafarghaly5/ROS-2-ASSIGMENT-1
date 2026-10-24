@@ -1,0 +1,7 @@
+bool start
+---
+bool success
+string message
+---
+uint8 sides_completed
+string status

@@ -1,0 +1,25 @@
+```xml
+<?xml version="1.0"?>
+<package format="3">
+  <name>mechatronics_assignment</name>
+  <version>0.0.0</version>
+  <description>ROS 2 mechatronics assignment servers</description>
+  <maintainer email="hlaaa@todo.todo">hlaaa</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>turtlesim</depend>
+  <depend>mechatronics_interfaces</depend>
+  <depend>std_srvs</depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+```
